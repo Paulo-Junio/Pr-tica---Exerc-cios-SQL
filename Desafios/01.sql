@@ -1,0 +1,1 @@
+SELECT * FROM produtos WHERE nome LIKE '%Televisão%';SELECT * FROM produtos WHERE nome LIKE '%Televisão%';SELECT * FROM produtos WHERE nome LIKE '%Televisão%';
